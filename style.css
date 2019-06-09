@@ -1,0 +1,13 @@
+#firstDiv {
+    height: 400px; 
+    background-color: #d09494; 
+    padding: 50px; 
+    border-radius:10px
+}
+
+#secDiv {
+    height: 400px; 
+    background-color: rgb(14, 194, 44);
+    padding: 50px; 
+    border-radius:10px
+}
